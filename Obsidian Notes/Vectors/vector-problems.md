@@ -1,0 +1,5 @@
+1) [[CP-right-rotation|Right rotation]]
+2) [[CP-left-rotation|Left rotation]]
+3) [[CP-right-rotation-with-steps|Right rotation with steps]]
+4) [[CP-deleting-a-position|Deleting a position]]
+5) [[CP-improved-search|Improved search]]
