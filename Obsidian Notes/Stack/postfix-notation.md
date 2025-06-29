@@ -1,0 +1,1 @@
+It’s a notation used in arithmetic operations which formed as following: $num \space num <operator>$, where the operator is placed after the 2 numbers.

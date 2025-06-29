@@ -1,0 +1,5 @@
+- When function A calls B, which calls C, internally this is a stack of function calls (A, B, C).
+	- Function C, the top, must be done first
+	- Then goes back to B
+	- Finally, A, which is the first, must finish last
+- Similarly in recursion.

@@ -1,0 +1,1 @@
+It’s the normal notation we use in arithmetic operation. It follows the form of $num <operator> num$, where the operator is placed in between the two numbers.
