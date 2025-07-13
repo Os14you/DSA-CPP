@@ -1,0 +1,5 @@
+- In-order traversal: Sorted values
+- Given preorder, postorder or level order only, we can build a BST
+- The number of BST trees of N nodes is the same as the number of unlabeled binary trees: the Catalan number
+	- Why? All of their inorder traversals must be sorted. 
+	- Values are then useless $=$ the same as an unlabeled tree.
