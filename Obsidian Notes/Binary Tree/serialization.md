@@ -1,0 +1,1 @@
+Converting a data structure to a representation that is can be easily stored in the memory and we convert it back when we need it.
