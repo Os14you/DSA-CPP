@@ -1,0 +1,4 @@
+- `top()` refers to the min value in the heap (in the min heap).
+- `pop()` will remove the smallest value from the heap
+- Otherwise, normal push and pop like a queue
+- Using `isEmpty`/`top`/`pop` we can print the content

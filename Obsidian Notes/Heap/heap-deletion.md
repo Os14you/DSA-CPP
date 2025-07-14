@@ -1,0 +1,1 @@
+We can make it using the [[heapify-down|heapify down]] approach, where we swap the last element in the array with the root and heapify the value down until the tree is fixed.
